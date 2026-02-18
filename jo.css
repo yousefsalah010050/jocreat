@@ -4,3 +4,12 @@ hl{
 body{
     background-color:rgb(231, 221, 221);
 }
+#include <iostream>
+using namespace std;
+int main ()
+{
+    int x;
+    cout<<"enter please number for x"<<endl;
+    cin>>x;
+    return 0;
+}
